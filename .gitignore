@@ -44,6 +44,9 @@ next-env.d.ts
 /devlink
 .webflow
 
+# OpenNext build output
+/.open-next/
+
 # Temporary files
 .gitignore-nextjs
 

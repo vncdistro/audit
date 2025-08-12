@@ -48,7 +48,7 @@ export default function Home() {
                 </h3>
                 <p className="text-gray-600">
                   This application is built with Next.js and ready for Webflow Cloud deployment. 
-                  The audit form components will be integrated using Webflow's DevLink for 
+                  The audit form components will be integrated using Webflow&apos;s DevLink for 
                   seamless design-to-code workflow.
                 </p>
                 <div className="mt-6">
