@@ -1,0 +1,16 @@
+{
+  "cloud": {
+    "framework": "nextjs",
+    "path": "/app",
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "installCommand": "npm install",
+    "devCommand": "npm run dev"
+  },
+  "devlink": {
+    "host": "https://api.webflow.com",
+    "rootDir": "./devlink",
+    "cssModules": true
+  }
+}
+
